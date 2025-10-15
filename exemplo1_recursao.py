@@ -1,7 +1,7 @@
 """
 Recursão - conceito de programação no qual uma função chama a si mesma para resolver um problema específico
 
-Componenets essencias da recursão:
+Componenets essenciais da recursão:
 1. Caso base - condição que encerra a recursão
 2. Passo da recursão (step) 
 
